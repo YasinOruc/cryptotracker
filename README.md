@@ -14,4 +14,4 @@ With an intuitive interface, CryptoTracker enables users to:
 
 I developed the CryptoTracker app primarily as a learning project, not with the intention of releasing it as a full product. It served as a hands-on way for me to improve my skills in working with real-time data, API integration, and GUI design with Tkinter. The project was a great opportunity to dive into the cryptocurrency space while focusing on creating an intuitive interface.
 
-** Yasin Oruc **
+# Yasin Oruc
